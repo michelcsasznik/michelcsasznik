@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michelcsasznik
+- 👋 Hi, I’m @mchlcs
 - 👀 I’m interested in python and financial market
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
